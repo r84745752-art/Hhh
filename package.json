@@ -1,0 +1,12 @@
+{
+  "name": "quiz-bot-generator",
+  "version": "1.0.0",
+  "description": "HTML Quiz Test Generator for VDO Exams",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Quiz Bot Generator - Static Site'"
+  },
+  "keywords": ["quiz", "test", "generator", "vdo", "agriculture"],
+  "author": "Your Name",
+  "license": "MIT"
+}
